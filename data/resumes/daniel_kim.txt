@@ -1,0 +1,9 @@
+Daniel Kim
+Summary
+MLOps engineer bridging model development and reliable production inference at scale.
+Skills
+Python, Machine Learning, Kubernetes, Docker, AWS, Terraform, CI/CD, Data Engineering
+Experience
+6 years of experience in machine learning platforms. Built model deployment workflows that cut release cycles from weeks to days.
+Education
+M.S. Data Science, University of Southern California, 2019

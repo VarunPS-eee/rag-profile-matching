@@ -1,0 +1,9 @@
+Samuel Okafor
+Summary
+Site reliability engineer improving the availability and operability of distributed cloud services.
+Skills
+Go, Kubernetes, AWS, Prometheus, Docker, Linux, Terraform, CI/CD
+Experience
+6 years of experience running production platforms. Reduced incident recovery time by 50% through observability improvements.
+Education
+B.S. Computer Science, University of Lagos, 2018

@@ -1,0 +1,9 @@
+Oliver Smith
+Summary
+Systems engineer building low-latency infrastructure and developer tools for scientific computing.
+Skills
+C++, Rust, Linux, Go, Docker, Git, SQL
+Experience
+9 years of experience in systems software. Optimized a distributed simulation engine to run 2.3 times faster.
+Education
+M.S. Computer Science, University of Cambridge, 2016

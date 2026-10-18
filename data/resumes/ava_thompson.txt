@@ -1,0 +1,9 @@
+Ava Thompson
+Summary
+Cloud infrastructure engineer building automated deployments and container platforms for growing startups.
+Skills
+AWS, Docker, Kubernetes, Terraform, Go, Linux, CI/CD
+Experience
+4 years of experience in cloud engineering. Standardized deployment pipelines across 18 services.
+Education
+B.S. Computer Science, University of Colorado Boulder, 2020

@@ -1,0 +1,9 @@
+Chloe Dubois
+Summary
+Senior AI scientist developing generative AI systems with rigorous offline and human evaluation.
+Skills
+PyTorch, Python, Hugging Face, NLP, LLM, Machine Learning, RAG, Vector Databases, AWS
+Experience
+8 years of experience in machine learning and NLP. Led evaluation and deployment of multilingual LLM applications.
+Education
+Ph.D. Machine Learning, ETH Zurich, 2018

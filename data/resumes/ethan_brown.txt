@@ -1,0 +1,9 @@
+Ethan Brown
+Summary
+Quality automation engineer building resilient end-to-end testing for web and mobile products.
+Skills
+Selenium, Playwright, Python, Java, Jest, CI/CD, Docker, Agile
+Experience
+6 years of experience in software testing. Built an automated regression suite covering 1,400 critical user journeys.
+Education
+B.S. Information Technology, Purdue University, 2018

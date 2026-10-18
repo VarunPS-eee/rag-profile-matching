@@ -1,0 +1,9 @@
+Maya Chen
+Summary
+Machine learning engineer focused on production NLP, retrieval augmented generation, and language model applications. Built search products serving 2 million requests per month.
+Skills
+Python, Machine Learning, PyTorch, TensorFlow, NLP, RAG, AWS, Docker, Vector Databases, Hugging Face
+Experience
+7 years of experience in machine learning and applied NLP. Led a five-person team that shipped semantic search and a RAG assistant; improved answer relevance by 24%.
+Education
+M.S. Computer Science, University of Washington, 2018

@@ -1,0 +1,9 @@
+Sofia Martinez
+Summary
+Frontend engineer creating accessible, high-performance web applications for consumer products.
+Skills
+JavaScript, TypeScript, React, Angular, Node.js, GraphQL, Jest, Git, Agile
+Experience
+6 years of experience developing React applications. Improved page performance by 40% and mentored three early-career engineers.
+Education
+B.S. Software Engineering, University of Florida, 2018

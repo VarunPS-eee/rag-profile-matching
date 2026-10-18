@@ -1,0 +1,2 @@
+Create automated tests and reliable CI feedback for customer-facing web products. Candidates need 4+ years of experience, strong browser automation skills, and the ability to work across engineering teams.
+Must-have skills: Python, Selenium

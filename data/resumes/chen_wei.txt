@@ -1,0 +1,9 @@
+Chen Wei
+Summary
+Applied NLP scientist delivering multilingual text understanding and retrieval systems.
+Skills
+Python, NLP, Natural Language Processing, PyTorch, Hugging Face, Machine Learning, RAG, LLM
+Experience
+5 years of experience in natural language processing. Fine-tuned multilingual transformer models and launched a RAG-powered support assistant.
+Education
+Ph.D. Computational Linguistics, University of Edinburgh, 2021

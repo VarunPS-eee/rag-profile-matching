@@ -1,0 +1,9 @@
+Elena Petrova
+Summary
+Java backend developer building event-driven services for logistics and travel applications.
+Skills
+Java, Spring, SQL, PostgreSQL, Microservices, Docker, AWS, Git
+Experience
+5 years of experience building Java services and Kafka-based integrations for international teams.
+Education
+B.S. Computer Science, Sofia University, 2019

@@ -1,0 +1,9 @@
+Amara Okafor
+Summary
+Data scientist combining experimentation, statistics, and predictive modeling in digital health.
+Skills
+Python, SQL, Statistics, scikit-learn, Pandas, Machine Learning, PyTorch, Data Analysis
+Experience
+6 years of experience in data science and machine learning. Designed experiments and risk models used in clinical operations.
+Education
+Ph.D. Biostatistics, University of Toronto, 2020

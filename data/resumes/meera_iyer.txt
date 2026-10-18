@@ -1,0 +1,9 @@
+Meera Iyer
+Summary
+Cloud architect designing secure multi-account platforms for regulated global organizations.
+Skills
+AWS, Azure, Kubernetes, Terraform, Linux, Docker, Python, Security
+Experience
+11 years of experience in cloud architecture and platform engineering. Led a secure migration of 300 production workloads.
+Education
+M.S. Software Systems, Birla Institute of Technology and Science, 2013

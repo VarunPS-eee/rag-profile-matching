@@ -1,0 +1,9 @@
+Noor Ahmed
+Summary
+Security engineer focused on application security reviews and cloud incident investigation.
+Skills
+Python, Linux, AWS, SQL, Docker, Communication, Git
+Experience
+4 years of experience in security engineering. Automated vulnerability triage and improved remediation time by 32%.
+Education
+B.S. Cybersecurity, University of Maryland, 2020

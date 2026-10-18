@@ -1,0 +1,9 @@
+Grace Wilson
+Summary
+Data engineer supporting modern analytics stacks for consumer subscription companies.
+Skills
+SQL, Python, dbt, Airflow, BigQuery, ETL, Data Engineering, Tableau
+Experience
+3 years of experience building data models and scheduled transformations for analytics teams.
+Education
+B.S. Applied Mathematics, University of Bristol, 2021

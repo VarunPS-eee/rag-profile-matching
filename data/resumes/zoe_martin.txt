@@ -1,0 +1,9 @@
+Zoe Martin
+Summary
+QA automation developer writing maintainable browser and API tests for fast-moving product teams.
+Skills
+JavaScript, Playwright, Selenium, CI/CD, Jest, Git, Agile
+Experience
+3 years of experience in quality engineering. Increased automated browser-test coverage to 82%.
+Education
+B.S. Information Systems, University of Leeds, 2021

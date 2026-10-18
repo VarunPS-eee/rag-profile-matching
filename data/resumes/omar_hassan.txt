@@ -1,0 +1,9 @@
+Omar Hassan
+Summary
+Cybersecurity engineer focused on cloud threat detection, incident response, and secure Linux operations.
+Skills
+Linux, AWS, Python, Docker, Terraform, Communication, SQL
+Experience
+7 years of experience in cybersecurity. Led incident response and introduced cloud controls that reduced critical findings by 45%.
+Education
+M.S. Information Security, Georgia Institute of Technology, 2017

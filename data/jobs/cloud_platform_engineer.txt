@@ -1,0 +1,2 @@
+Build and operate secure cloud infrastructure for production services. This role needs 5+ years of experience, strong infrastructure-as-code practices, Kubernetes operations, and a track record improving developer delivery.
+Must-have skills: AWS, Kubernetes, Terraform

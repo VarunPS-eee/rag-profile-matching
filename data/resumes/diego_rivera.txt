@@ -1,0 +1,9 @@
+Diego Rivera
+Summary
+Web developer focused on responsive interfaces and accessible customer experiences.
+Skills
+React, JavaScript, CSS, HTML, Figma, UX Research, Jest, Git
+Experience
+3 years of experience building web interfaces. Partnered with designers to reduce mobile checkout friction.
+Education
+B.S. Digital Media, University of Texas at El Paso, 2021

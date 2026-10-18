@@ -1,0 +1,9 @@
+Liam O'Connor
+Summary
+Backend software engineer specializing in JVM services and distributed commerce systems.
+Skills
+Java, Spring, PostgreSQL, Redis, Microservices, Docker, AWS, SQL, CI/CD, Git
+Experience
+9 years of experience designing Java microservices. Delivered payment APIs processing 12,000 transactions per second with 99.99% availability.
+Education
+B.S. Computer Science, Trinity College Dublin, 2015

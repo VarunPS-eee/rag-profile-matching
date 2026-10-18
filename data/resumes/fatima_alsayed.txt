@@ -1,0 +1,9 @@
+Fatima Al-Sayed
+Summary
+Backend Python engineer building secure APIs and data-intensive services for healthcare.
+Skills
+Python, FastAPI, Django, PostgreSQL, Redis, SQL, Docker, AWS, REST API
+Experience
+6 years of experience developing Python services. Designed APIs handling 4 million monthly health-record requests.
+Education
+B.S. Computer Engineering, American University of Beirut, 2018

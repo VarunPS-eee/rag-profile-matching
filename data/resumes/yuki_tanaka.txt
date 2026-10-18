@@ -1,0 +1,9 @@
+Yuki Tanaka
+Summary
+Mobile developer creating dependable Android experiences for travel and payments.
+Skills
+Java, Kotlin, Android, SQL, Git, Agile, Communication
+Experience
+5 years of experience developing Android applications. Launched offline payment support used by 200,000 customers.
+Education
+B.S. Software Engineering, University of Tokyo, 2019

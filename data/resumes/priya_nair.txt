@@ -1,0 +1,9 @@
+Priya Nair
+Summary
+DevOps and platform engineer automating secure cloud infrastructure for SaaS teams.
+Skills
+AWS, Kubernetes, Terraform, Linux, Docker, Jenkins, CI/CD, Python, GitHub Actions, Monitoring
+Experience
+7 years of experience operating AWS platforms. Reduced deployment time from hours to minutes through reusable infrastructure modules.
+Education
+B.Eng. Computer Engineering, National University of Singapore, 2017

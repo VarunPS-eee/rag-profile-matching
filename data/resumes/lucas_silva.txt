@@ -1,0 +1,9 @@
+Lucas Silva
+Summary
+Full-stack developer delivering customer-facing web products from API to responsive interface.
+Skills
+React, TypeScript, JavaScript, Node.js, PostgreSQL, AWS, GraphQL, Docker
+Experience
+5 years of experience in full-stack development. Shipped subscription workflows that increased paid conversion by 18%.
+Education
+B.S. Computer Science, University of São Paulo, 2019

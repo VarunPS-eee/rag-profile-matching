@@ -1,0 +1,2 @@
+We are hiring an applied machine learning engineer to build language-model products and reliable retrieval augmented generation systems. The successful candidate has 5+ years of experience, ships models into production, evaluates relevance, and communicates well with product partners.
+Must-have skills: Python, Machine Learning, NLP, PyTorch

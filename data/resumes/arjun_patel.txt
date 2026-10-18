@@ -1,0 +1,9 @@
+Arjun Patel
+Summary
+Senior data engineer who builds reliable streaming and batch platforms for finance and retail.
+Skills
+Python, SQL, Spark, AWS, Airflow, ETL, PostgreSQL, Docker, Data Engineering, Terraform
+Experience
+8 years of experience building data pipelines. Migrated 40 TB of warehouse data to Spark and reduced daily pipeline time by 35%.
+Education
+B.S. Information Systems, University of Texas at Austin, 2016

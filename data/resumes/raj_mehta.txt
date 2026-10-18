@@ -1,0 +1,9 @@
+Raj Mehta
+Summary
+Machine learning engineer applying statistical learning to forecasting and customer personalization.
+Skills
+Python, Machine Learning, scikit-learn, Pandas, TensorFlow, NLP, SQL, Statistics
+Experience
+4 years of experience developing machine learning models. Improved demand forecast accuracy by 16%.
+Education
+M.S. Analytics, Carnegie Mellon University, 2020
